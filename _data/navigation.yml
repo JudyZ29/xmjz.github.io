@@ -9,7 +9,7 @@
 
 main:
   - title: "CV"
-    url: /cv-json/
+    url: /cv/
 
   - title: "Publications"
     url: /publications/
@@ -25,7 +25,6 @@ main:
         
    - title: "News"
      url: /posts/
-    
     
   # - title: "CV"
   #   url: /cv-json/
